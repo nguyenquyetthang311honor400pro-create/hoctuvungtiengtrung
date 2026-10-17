@@ -1,0 +1,15 @@
+{
+  "这": { "meaning": "Này, đây", "sentence": "Đại từ chỉ định. Ví dụ: 这是书。(Zhè shì shū.) Đây là sách.", "tone": "zhe4" },
+  "书": { "meaning": "Sách", "sentence": "Danh từ. Ví dụ: 这是书。(Zhè shì shū.) Đây là sách.", "tone": "shu1" },
+  "学习": { "meaning": "Học tập", "sentence": "Động từ. Ví dụ: 我学习中文。(Wǒ xuéxí Zhōngwén.) Tôi học tiếng Trung.", "tone": "xue2xi2" },
+  "中文": { "meaning": "Tiếng Trung", "sentence": "Danh từ. Ví dụ: 我喜欢中文。(Wǒ xǐhuān Zhōngwén.) Tôi thích tiếng Trung.", "tone": "zhong1wen2" },
+  "朋友": { "meaning": "Bạn bè", "sentence": "Danh từ. Ví dụ: 他是我的朋友。(Tā shì wǒ de péngyou.) Anh ấy là bạn tôi.", "tone": "peng2you5" },
+  "我": { "meaning": "Tôi, mình", "sentence": "Đại từ nhân xưng. Ví dụ: 我学习中文。(Wǒ xuéxí Zhōngwén.) Tôi học tiếng Trung.", "tone": "wo3" },
+  "你": { "meaning": "Bạn, anh, chị", "sentence": "Đại từ nhân xưng. Ví dụ: 你好。(Nǐ hǎo.) Xin chào.", "tone": "ni3" },
+  "好": { "meaning": "Tốt, khỏe, hay", "sentence": "Tính từ. Ví dụ: 你好。(Nǐ hǎo.) Xin chào.", "tone": "hao3" },
+  "你好": { "meaning": "Xin chào", "sentence": "Cụm chào hỏi. Ví dụ: 你好！(Nǐ hǎo!) Xin chào!", "tone": "ni3hao3" },
+  "是": { "meaning": "Là, đúng là", "sentence": "Động từ. Ví dụ: 这是书。(Zhè shì shū.) Đây là sách.", "tone": "shi4" },
+  "吃": { "meaning": "Ăn", "sentence": "Động từ. Ví dụ: 我吃饭。(Wǒ chī fàn.) Tôi ăn cơm.", "tone": "chi1" },
+  "喝": { "meaning": "Uống", "sentence": "Động từ. Ví dụ: 我喝水。(Wǒ hē shuǐ.) Tôi uống nước.", "tone": "he1" },
+  "水": { "meaning": "Nước", "sentence": "Danh từ. Ví dụ: 我喝水。(Wǒ hē shuǐ.) Tôi uống nước.", "tone": "shui3" }
+}
